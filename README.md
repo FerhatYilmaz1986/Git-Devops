@@ -1,1 +1,1 @@
-# Mini_project
+# Mini_project by Ferhat Yilmaz & Vikash Budhan
