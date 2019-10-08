@@ -47,6 +47,8 @@ Usage: git push [variable name] [branch] : This command sends the branch commits
   
 Usage: git push –all [variable name] : This command pushes all branches to your remote repository  
   
+![Git push](/image/push.png)  
+  
 **Pull** : 
   
 Usage: git pull [Repository Link] : This command fetches and merges changes on the remote server to your working directory.
