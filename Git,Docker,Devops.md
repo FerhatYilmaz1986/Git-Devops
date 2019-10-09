@@ -6,9 +6,11 @@
 
 ## 2.	What is DOCKER?  
   
+ ![Docker](/image/docker.png)  
+   
   Docker is best described in Wikipedia as “an open-source project that automates the deployment of software applications inside containers by providing an additional layer of abstraction and automation of OS-level virtualization on Linux”
 Docker is simply a container. Containers are sometimes compared with virtual machines. Virtual Machines run applications inside a guest Operating System, which runs on virtual hardware powered by the server’s host Operating System.
-Containers make a different approach: They leverage the low-level mechanics of the host operating system, and so that provide most of the isolation of virtual machines at a fraction of the computing power
+Containers make a different approach: They leverage the low-level mechanics of the host operating system, and so that provide most of the isolation of virtual machines at a fraction of the computing power    
   
 ## 3.	What is DevOps?
   
