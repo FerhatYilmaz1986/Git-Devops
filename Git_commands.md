@@ -9,7 +9,7 @@ For example, you create a file in your repository, such as a Python file. These 
   
 **Clone**: This command gives us a copy of repository that we want to work on and collaborate  
   
- ![Git Clone](/image/clone.png)  
+ ![Git Clone](/image/clone2.png)  
   
 **Fork**: Collaboration is two way  
   
@@ -37,7 +37,7 @@ Usage: git checkout [branch name] :This command is used to switch from one branc
   
 Usage: git checkout -b [branch name]: This command creates a new branch and also switches to it  
   
-![Git branch](/image/branch.png)  
+![Git checkout](/image/checkout.png)  
   
 **Push** :  
     
