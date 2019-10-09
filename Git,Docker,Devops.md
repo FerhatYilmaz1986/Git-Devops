@@ -12,6 +12,9 @@ Containers make a different approach: They leverage the low-level mechanics of t
   
 ## 3.	What is DevOps?
   
+![DevOps](/image/DevOps.png)  
+  
+  
 DevOps joins developers and operations teams in order to improve collaboration and productivity by automating workflows and continuously improving application performance. It is the practice of operations and development engineers participating together in the entire  lifecycle, from design through the deployment process.
 You can think DevOps as an expanded understanding of the value of collaboration between development and operations staff throughout all stages of the development lifecycle when creating and operating a service, and see how important operations has become in our increasingly fast-paced world.
 Companies that incorporate DevOps get more work done in less time and more efficiently. With a team composed of cross-functional members all working in collaboration, DevOps can deliver with maximum speed, functionality, and innovation.
@@ -21,7 +24,7 @@ Companies that incorporate DevOps get more work done in less time and more effic
 There is waste of time and sources in a typical IT environment with people waiting for other people or other sources—or they are stuck solving the same problems over and over. When people get rid of the unsatisfying parts of their job and can instead spend that time adding value to the organization, everyone benefits.
 Automated deployments and standardized production environments, key aspects of DevOps models of IT operations, make deployments predictable and help people save time from repetitive tasks to do more creative things.
   
-a.	DevOps provides continuous software delivery, ease in management and faster resolution of problems. For example, lets imagine that there are two banks. Bank A is implementing DevOps and Bank B is not. There is a crash in the application of both banks. In Bank A’s side, a warning is sent to IT department, bug is fixed, new fix is deployed all in one process. In Bank B’s side, each step is conducted separately by different departments in an old school way.   
+a.	DevOps provides continuous software delivery, ease in management and faster resolution of problems. For example, lets imagine that there are two banks. Bank A is implementing DevOps and Bank B is not. There is a crash in the application of both banks. In Bank A’s side, a warning is sent to IT department, bug is fixed, new fix is deployed all in one process. In Bank B’s side, each step is conducted separately by different departments in an old school way. So, Bank B had to spare more time, allocate more resources to solve this issue. Besides, customer satisifaction of Bank B is lower than Bank A's.  
   
 b.	DevOps provides faster delivery of features,  more stable operating environments, improved communication and collaboration, more time to innovate (rather than fix/maintain)  
   
