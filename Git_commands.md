@@ -15,7 +15,7 @@
   
  ![Git Clone](/image/clone2.png)  
   
-**Fork**: Collaboration is two way  
+**Fork**: This command copies repository for you and allows you make changes, collaborate on a project without affecting the master branch  
   
  ![Git Fork](/image/fork.png)  
   
