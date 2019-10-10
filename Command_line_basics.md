@@ -16,6 +16,7 @@ Users are able to perform almost all the same task that can be down with a GUI. 
 ## Basic Command Lines and explanation
 
 * **cd** - Change Directory - this allows you to navigate through directories. **cd** command allows you to change your current directory to the destination specified within the command. To go to a foler name njit you type: cd njit
+![Cd](/image/cd.PNG)
 * **mkdir** - Creates a new directory with the specified name. The command mkdir njit will create a new directory named njit.
 * **cp**  - Copy - if you want to copy a file or folder. to copy the file njit and name the new file rutgers, usee command cp njit rutgers. Windows however use the copy command instead.
 * **pwd** - print working directory, this displays the current working directory. 
