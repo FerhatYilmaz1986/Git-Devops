@@ -16,5 +16,5 @@
  wikipedia.org  
  docker.com  
  git-sm.com  
- edureka.co
- hongkiat.com
+ edureka.co   
+ hongkiat.com 
