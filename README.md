@@ -13,8 +13,8 @@
  Ferhat Yilmaz & Vikash Budhan  
    
  ## References:  
- www.wikipedia.org  
- www.docker.com  
- https://git-sm.com  
- www.edureka.co
+ wikipedia.org  
+ docker.com  
+ git-sm.com  
+ edureka.co
  
