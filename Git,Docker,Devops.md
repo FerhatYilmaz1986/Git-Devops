@@ -1,4 +1,4 @@
-# BASIC TUTORIAL FOR GIT, DOCKER, AUTOMATED TESTING AND CONTINUOUS INTEGRATION
+﻿# BASIC TUTORIAL FOR GIT, DOCKER, AUTOMATED TESTING AND CONTINUOUS INTEGRATION
 
 ## 1.	What is GIT?  
 
@@ -20,6 +20,8 @@ Containers make a different approach: They leverage the low-level mechanics of t
 DevOps joins developers and operations teams in order to improve collaboration and productivity by automating workflows and continuously improving application performance. It is the practice of operations and development engineers participating together in the entire  lifecycle, from design through the deployment process.
 You can think DevOps as an expanded understanding of the value of collaboration between development and operations staff throughout all stages of the development lifecycle when creating and operating a service, and see how important operations has become in our increasingly fast-paced world.
 Companies that incorporate DevOps get more work done in less time and more efficiently. With a team composed of cross-functional members all working in collaboration, DevOps can deliver with maximum speed, functionality, and innovation.
+  
+**Continuous integration**: Development practice that requires developers to integrate code into shared repository several time a day  
   
 ## 4.	 Benefits of implementing DevOps in your company:
   
