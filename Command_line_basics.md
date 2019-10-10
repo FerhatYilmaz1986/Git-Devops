@@ -1,6 +1,6 @@
 ## Basic & Essential Command Lines
 
-### What is command line?
+### What is Command line?
 Command line is also window command line, command screen, or text interface. 
 It is a user interface that is navigated by typing commands at prompts, inteasd of using the mouse. 
 
