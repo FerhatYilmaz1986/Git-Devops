@@ -23,6 +23,8 @@ Companies that incorporate DevOps get more work done in less time and more effic
   
 **Continuous integration**: Development practice that requires developers to integrate code into shared repository several time a day  
   
+**Continuous testing** : The process of executing automated tests as part of delivery pipeline to obtain immediate feedback    
+  
 ## 4.	 Benefits of implementing DevOps in your company:
   
 There is waste of time and sources in a typical IT environment with people waiting for other people or other sources—or they are stuck solving the same problems over and over. When people get rid of the unsatisfying parts of their job and can instead spend that time adding value to the organization, everyone benefits.
