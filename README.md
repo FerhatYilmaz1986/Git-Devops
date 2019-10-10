@@ -10,4 +10,11 @@
   *[3.Command Line Basics ](/Command_line_basics.md)
   
  ## Authors:  
- Ferhat Yilmaz & Vikash Budhan
+ Ferhat Yilmaz & Vikash Budhan  
+   
+ ## References:  
+ www.wikipedia.org  
+ www.docker.com  
+ https://git-sm.com  
+ www.edureka.co
+ 
