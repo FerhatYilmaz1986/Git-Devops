@@ -29,7 +29,7 @@ Example:
 ![Pwd](/image/pwd.PNG)
 * **mv** - moving files to a particular file to a folder. -mv njit /newark- moves njit /newark to a folder named newark. In addition, you can use the mv command to rename files and folders. -mv njit.html school.htmp renames njit.html to school.htmp.
 Example:
-(![Mv](/image/mv.PNG)
+![Mv](/image/mv.PNG)
 * **rm** - remove files. This command deletes files and nukes them. When you run the rm -R command on a folder, you’re telling Terminal to delete that folder, any files it contains, any sub-folders it contains, and any files or folders in those sub-folders, all the way down.  So just run the command like this: rm -R Archives
 Example:
 ![Rm](/image/rm.PNG)
