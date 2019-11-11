@@ -7,7 +7,9 @@
     
   *[2.Git commands and terminology ](/Git_commands.md)  
     
-  *[3.Command Line Basics ](/Command_line_basics.md)
+  *[3.Command Line Basics ](/Command_line_basics.md)  
+    
+  *[3.New Definitions ](/Updated_definitions.md)
   
  ## Authors:  
  Ferhat Yilmaz & Vikash Budhan  
