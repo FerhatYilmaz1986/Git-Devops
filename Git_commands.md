@@ -74,4 +74,28 @@ This command pushes all branches to your remote repository
 Usage: git pull [Repository Link]  
 This command fetches and merges changes on the remote server to your working directory.
   
-![Git pull](/image/pull.png) 
+![Git pull](/image/pull.png)  
+
+**Remote Add**:  
+Usage: git remote add <shortname> <url> 
+This command adds a new remote repository.  
+   
+**Remote Show**:  
+  
+Usage : git remote show
+This command lists the Url for the remote repository a well as tracking branch information. Also lists all the remote references it has puled down.  
+  
+**Status**:  
+  
+Usage : git status
+This command shows the woking tree status.  
+  
+**Master Branch**:  
+  
+The default branch name in Git is master. As you start making commits, you’re given a master branch that points to the last commit   you made. Every time you commit, the master branch pointer moves forward automatically
+  
+
+
+
+
+ 
