@@ -72,6 +72,7 @@ Decorators provide a simple syntax for calling higher-order functions. It is a f
 Extend Class is basically to add new methods, not changing existing ones. Extending classes is to use a preprocessor that adds the ability to extend above the a usual code in python.
 
 Here's an extending code example:
+
 extend:testDottedQuad
 def testDottedQuad(strObject):
     if not isinstance(strObject, basestring): return False
