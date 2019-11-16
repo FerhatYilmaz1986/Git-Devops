@@ -71,20 +71,7 @@ Decorators provide a simple syntax for calling higher-order functions. It is a f
 **Extend Class:**
 Extend Class is basically to add new methods, not changing existing ones. Extending classes is to use a preprocessor that adds the ability to extend above the a usual code in python.
 
-Here's an extending code example:
-
-extend:testDottedQuad
-def testDottedQuad(strObject):
-    if not isinstance(strObject, basestring): return False
-    listStrings = strObject.split('.')
-    if len(listStrings) != 4: return False
-    for strNum in listStrings:
-        try:    val = int(strNum)
-        except: return False
-        if val < 0: return False
-        if val > 255: return False
-    return True
-    
+  
 **CSV**:
 Common-separate values (csv) is a type of plain text file that uses specific structuring to arrange tabular data. 
 
